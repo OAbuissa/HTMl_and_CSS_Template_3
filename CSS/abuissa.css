@@ -95,6 +95,7 @@ a {
     color: white;
     border-color: var(--main-color);
     transition-delay: 0.5s;
+    background-color: var(--main-color);
 }
 /* End Main Title Component */
 /* End Global Rules */
