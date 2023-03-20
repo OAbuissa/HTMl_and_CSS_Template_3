@@ -1363,3 +1363,14 @@ a {
     color: var(--main-color);
 }
 /* End Stats */
+/* Start Discount */
+.discount {
+    
+}
+.discount .image {
+
+}
+.discount .image::before {
+    content: "";
+}
+/* Start Discount */
